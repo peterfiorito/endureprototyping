@@ -1,6 +1,6 @@
 # endure_prototyping
 
 Instructions to run:
->cd Endure
->npm install
->npm run dev
+1) cd Endure
+2) npm install
+3) npm run dev
